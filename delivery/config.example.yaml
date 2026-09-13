@@ -1,0 +1,10 @@
+# Non-sensitive delivery settings. Safe to commit to version control.
+# Real credentials (SENDER_EMAIL, SENDER_PASSWORD) go in .env instead —
+# see .env.example.
+
+smtp_host: smtp.office365.com
+smtp_port: 587
+recipients:
+  - recipient1@example.com
+  - recipient2@example.com
+use_tls: true

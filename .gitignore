@@ -5,3 +5,4 @@ __pycache__/
 .env
 output/
 *.xlsx
+delivery/config.yaml
