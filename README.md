@@ -1,5 +1,7 @@
 # Sales Report Automation
 
+ [![Tests](https://github.com/Lucasjff98/sales-report-automation/actions/workflows/tests.yml/badge.svg)](https://github.com/Lucasjff98/sales-report-automation/actions/workflows/tests.yml)
+
 A no-browser sales/finance report automation pipeline: it reads raw order
 data (CSV/Excel), aggregates it by customer, generates a formatted Excel
 report, and emails it automatically to a configured list of recipients.
